@@ -242,6 +242,18 @@ Beyond automated tests, the full request lifecycle — registration, login, room
 
 ---
 
+## Project Documentation
+
+This repository includes a full engineering documentation set, written throughout development rather than after the fact:
+
+- [`ENGINEERING_NOTES.md`](./ENGINEERING_NOTES.md) — what was built and why, phase by phase
+- [`DECISION_LOG.md`](./DECISION_LOG.md) — every major architectural decision, the alternatives considered, and the trade-offs accepted
+- [`INTERVIEW_NOTES.md`](./INTERVIEW_NOTES.md) — technical interview questions and answers organized by topic
+- [`MISTAKES_TO_AVOID.md`](./MISTAKES_TO_AVOID.md) — real bugs encountered during development, their root causes, and the lessons learned
+- [`REVISION_NOTES.md`](./REVISION_NOTES.md) — condensed quick-reference summary
+
+---
+
 ## Known Limitations & Future Work
 
 Documented honestly rather than hidden:
